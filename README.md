@@ -1,107 +1,64 @@
 # CleanSpace Support
 
-  Official support repository for **CleanSpace - Storage Cleaner** iOS app.
+Official support repository for **CleanSpace - Storage Cleaner** iOS app.
 
-  ## 📱 About CleanSpace
+## About CleanSpace
 
-  CleanSpace is a privacy-first iOS storage cleaner that helps you free up space on your device using
-  ML-powered duplicate detection. All processing happens 100% on-device — your photos never leave your phone.
+CleanSpace is a privacy-first iOS storage cleaner that helps you free up space on your device using ML-powered duplicate detection. All processing happens 100% on-device - your photos never leave your phone.
 
-  **Key Features:**
-  - 🔍 ML-Powered Duplicate Photo Detection
-  - 📸 Screenshot Manager
-  - 🎬 Large Media Finder
-  - 🔒 Private Photos Vault (AES-256 Encrypted)
-  - 👥 Contact Deduplication
-  - 🎞️ Live Photos Conversion
-  - 📹 Similar Videos Detection
-  - 🗜️ Video Compression
+### Key Features
 
-  ## 🐛 Report a Bug
+- **ML-Powered Duplicate Detection** - Find similar photos using on-device machine learning
+- **Screenshot Manager** - Organize and bulk delete screenshots
+- **Large Media Finder** - Identify space-hogging videos and photos
+- **Private Photos Vault** - AES-256 encrypted storage with Face ID
+- **Contact Deduplication** - Find and merge duplicate contacts
+- **Live Photos Conversion** - Convert Live Photos to stills (60-70% savings)
+- **Similar Videos Detection** - Find visually similar videos
+- **Video Compression** - Reduce video file sizes
 
-  Found something not working? [Open a bug report](../../issues/new?template=bug_report.md)
+## Get Help
 
-  Please include:
-  - iOS version
-  - Device model
-  - Steps to reproduce
-  - Screenshots (if applicable)
+### Report a Bug
 
-  ## 💡 Request a Feature
+Found something not working? [Open a bug report](https://github.com/brianly1003/cleanspace-support/issues/new?template=bug_report.md)
 
-  Have an idea to make CleanSpace better? [Submit a feature 
-  request](../../issues/new?template=feature_request.md)
+Please include:
+- iOS version
+- Device model
+- Steps to reproduce
+- Screenshots (if applicable)
 
-  ## 📧 Contact
+### Request a Feature
 
-  - **Email:** support@cleanspace.app
-  - **Issues:** [GitHub Issues](../../issues)
+Have an idea to make CleanSpace better? [Submit a feature request](https://github.com/brianly1003/cleanspace-support/issues/new?template=feature_request.md)
 
-  ## 🔒 Privacy
+### Contact
 
-  CleanSpace is built with privacy as a core principle:
-  - Zero cloud uploads
-  - No tracking of your content
-  - All processing on-device
-  - No third-party analytics on your photos
+- **Email:** support@cleanspace.app
+- **Privacy:** privacy@cleanspace.app
+- **Issues:** [GitHub Issues](https://github.com/brianly1003/cleanspace-support/issues)
 
-  Read our full [Privacy Policy](./PRIVACY_POLICY.md)
+## Privacy
 
-  ## 📲 Download
+CleanSpace is built with privacy as a core principle:
 
-  [![Download on App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](
-  https://apps.apple.com/app/cleanspace)
+- Zero cloud uploads
+- No tracking of your content
+- All processing on-device
+- No third-party analytics on your photos
 
-  ---
+Read our full [Privacy Policy](./PRIVACY_POLICY.md)
 
-  © 2025 CleanSpace. All rights reserved.
+## Legal
 
-  ---
-  And here are the issue templates to add in .github/ISSUE_TEMPLATE/:
+- [Privacy Policy](./PRIVACY_POLICY.md)
+- [Terms of Service](./TERMS_OF_SERVICE.md)
 
-  bug_report.md:
-  ---
-  name: Bug Report
-  about: Report something not working correctly
-  title: '[BUG] '
-  labels: bug
-  ---
+## Download
 
-  **Describe the bug**
-  A clear description of what's wrong.
+[Download on the App Store](https://apps.apple.com/app/cleanspace)
 
-  **To reproduce**
-  1. Go to '...'
-  2. Tap on '...'
-  3. See error
+---
 
-  **Expected behavior**
-  What you expected to happen.
-
-  **Screenshots**
-  If applicable, add screenshots.
-
-  **Device info:**
-  - Device: [e.g., iPhone 15 Pro]
-  - iOS Version: [e.g., 18.1]
-  - App Version: [e.g., 1.0.0]
-
-  feature_request.md:
-  ---
-  name: Feature Request
-  about: Suggest an idea for CleanSpace
-  title: '[FEATURE] '
-  labels: enhancement
-  ---
-
-  **Problem**
-  What problem would this solve?
-
-  **Proposed solution**
-  How do you think it should work?
-
-  **Alternatives considered**
-  Any other solutions you've thought of?
-
-  **Additional context**
-  Any other details or screenshots.
+© 2025 CleanSpace. All rights reserved.
