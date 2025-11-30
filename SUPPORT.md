@@ -2,11 +2,33 @@
 
 Need help with Clean Space? We're here to assist you.
 
-## Contact Us
+## Get Help
+
+### 1. Check Existing Issues
+Before creating a new issue, please check if your question has already been answered:
+
+👉 **[View All Issues](https://github.com/brianly1003/cleanspace-support/issues)**
+
+### 2. Create a New Issue
+If you can't find a solution, create a new issue:
+
+👉 **[Create New Issue](https://github.com/brianly1003/cleanspace-support/issues/new)**
+
+Please include:
+- Your device model (e.g., iPhone 15 Pro)
+- iOS version (e.g., iOS 17.5)
+- App version (found in Settings > About)
+- Clear description of the issue
+- Screenshots if applicable
+
+### 3. Email Support
+For private matters or account issues:
 
 **Email:** [brianly1003@gmail.com](mailto:brianly1003@gmail.com)
 
 We typically respond within 24-48 hours.
+
+---
 
 ## Frequently Asked Questions
 
@@ -47,8 +69,11 @@ A: Deleted photos go to the "Recently Deleted" album in your Photos app. You hav
 
 ## Feature Requests & Bug Reports
 
-Have a suggestion or found a bug? Email us at [brianly1003@gmail.com](mailto:brianly1003@gmail.com) with:
+Have a suggestion or found a bug?
 
+👉 **[Create an Issue on GitHub](https://github.com/brianly1003/cleanspace-support/issues/new)**
+
+Please include:
 - Your device model and iOS version
 - A description of the issue or feature request
 - Screenshots if applicable
