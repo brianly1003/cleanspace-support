@@ -36,7 +36,7 @@ Have an idea to make CleanSpace better? [Submit a feature request](https://githu
 ### Contact
 
 - **Email:** brianly1003@gmail.com
-- **Privacy:** [privacy@cleanspace.app](https://blavy.tech/PRIVACY_POLICY.html)
+- **Privacy:** [https://blavy.tech/PRIVACY_POLICY.html](https://blavy.tech/PRIVACY_POLICY.html)
 - **Issues:** [GitHub Issues](https://github.com/brianly1003/cleanspace-support/issues)
 
 ## Privacy
